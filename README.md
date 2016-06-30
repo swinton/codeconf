@@ -4,7 +4,7 @@
 
 ### Workshops
 - [x] [TRANSITIONING TO INNERSOURCE](https://gist.github.com/swinton/cc1e7a62b312133172a04b8b777fc547)
-- [x] DEMOLITIONS AND DALÍ: WEB DEV AND DATA IN A GRAPH DATABASE
+- [ ] DEMOLITIONS AND DALÍ: WEB DEV AND DATA IN A GRAPH DATABASE
 - [x] [DISSECTING GIT'S GUTS](https://gist.github.com/swinton/81dc11738ee399b4f97aef1619f490dd)
 
 ### Day one, 2016-06-28
