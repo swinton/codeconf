@@ -1,6 +1,6 @@
-# [CodeConf, LA, 2016](http://codeconf.com/)
+# [CodeConf, LA, 2016](http://codeconf.com/) Notes
 
-## Notes
+All my notes from *most* of the CodeConf sessions. Pull requests welcome.
 
 ### Workshops
 - [x] [TRANSITIONING TO INNERSOURCE](https://github.com/swinton/codeconf/blob/master/transitioning-to-innersource.md)
@@ -30,3 +30,6 @@
 - [x] [ENABLING DATA-DRIVEN PUBLIC-PRIVATE COLLABORATIONS](https://github.com/swinton/codeconf/blob/master/enabling-data-driven-public-private-collaborations.md)
 - [x] [TWITTER HERON IN PRACTICE](https://github.com/swinton/codeconf/blob/master/twitter-heron-in-practice.md)
 - [ ] CRESCENT WRENCHES, SOCKET SETS, AND OTHER TOOLS FOR DEBUGGING
+
+___
+All notes written using the excellent [iA Writer](https://ia.net/writer).
