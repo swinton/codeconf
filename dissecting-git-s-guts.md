@@ -122,12 +122,12 @@ Second commit
 	- `git verify-pack`
 
 ## Resources
-- Pro Git
-- Git from the Inside Out
-- Git from the Bottom UP
-- Advanced Git: Graphs, Hashes, and Compression, Oh My.
-- Unpacking Git Pacifies
-- Visualizing Git’s Merkle DAG with D3.js
+- [Pro Git](https://git-scm.com/book/en/v2) Scott Chacon & Ben Straub
+- [Git from the Inside Out](https://maryrosecook.com/blog/post/git-from-the-inside-out) Mary Rose Cook
+- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) John Wiegley
+- [Advanced Git: Graphs, Hashes, and Compression, Oh My.](https://youtu.be/ig5E8CcdM9g) Matthew McCullough
+- [Unpacking Git Packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles) Aditya Mukerjee
+- [Visualizing Git’s Merkle DAG with D3.js](https://tylercipriani.com/2016/03/21/Visualizing-Git-Merkle-DAG-with-D3.js.html) Tyler Cipriani
 
 ## Slides?
 - This was recorded at Git Merge, recording available… :soon:?
