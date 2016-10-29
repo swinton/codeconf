@@ -26,7 +26,7 @@ All my notes from *most* of the CodeConf sessions. Pull requests welcome.
 - [x] [BUILDING AN OPEN SOURCE CLOUD](https://github.com/swinton/codeconf/blob/master/building-an-open-source-cloud.md)
 - [x] [FROM CLOSED TO OPEN, A TALE ABOUT PARSE](https://github.com/swinton/codeconf/blob/master/from-closed-to-open-a-tale-about-parse.md)
 - [x] [DESIGN FOR NON-DESIGNERS](https://github.com/swinton/codeconf/blob/master/design-for-non-designers.md)
-- [ ] BEHAVIOR DESIGN: TEACHING YOUR USERS' SECURITY
+- [x] [BEHAVIOR DESIGN: TEACHING YOUR USERS' SECURITY](https://github.com/swinton/codeconf/blob/master/behavior-design-teaching-your-users-security.md)
 - [x] [ENABLING DATA-DRIVEN PUBLIC-PRIVATE COLLABORATIONS](https://github.com/swinton/codeconf/blob/master/enabling-data-driven-public-private-collaborations.md)
 - [x] [TWITTER HERON IN PRACTICE](https://github.com/swinton/codeconf/blob/master/twitter-heron-in-practice.md)
 - [ ] CRESCENT WRENCHES, SOCKET SETS, AND OTHER TOOLS FOR DEBUGGING
